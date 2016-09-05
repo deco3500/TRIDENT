@@ -65,6 +65,8 @@ The team has agreed to meet three times a week which will be held every Monday f
 Team members are expected to check their messages daily, only requiring a response only if it concerns them. If members do not respond within 24 hours, additional forms of communication will be utilised to avoid miscommunication or misunderstanding. If a member remains unresponsive and uncooperative for more than three days after additional actions have been undertaken to reach them, a tutor will be notified to assist in resolving the issue. 
 
 Plan:
+The team developed a road map with the main objectives to be completed before the due dates supplied with the criteria sheet throughout the whole semester. 
+
 Week 8: Research and team planning
 
 The team will research the concepts based on the concept to discover new methods to distinguish the application from other social applications. We performed early research to find if AIM will be interesting to users by finding what other products offer, such as Facebook, and how the application will introduce new features to the user. The research changed some parts of the concept from user submitted based news app to an application that provides users with updates and exclusive discounts from businesses in the local area. 
