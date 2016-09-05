@@ -1,3 +1,5 @@
 #TRIDENT
 
-Project Proposal- Team Trident
+Project Proposal
+
+
