@@ -44,11 +44,6 @@ Methods for Quality Control:
  - Create an log or meeting minutes for each meeting that happened.
  - Be active and share any ideas/opinions with the group.
 
-Methods for Quality Control:
- - Be committed to the meeting schedule, spend the effort to be punctual.
- - Create an log or meeting minutes for each meeting that happened.
- - Be active and share any ideas/opinions with the group.
-
 Communication Between Members
 As a team member, we will:
  - Communicate with each other regularly outside of daily/weekly meetings to avoid any misunderstandings.
