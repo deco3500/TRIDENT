@@ -93,7 +93,6 @@ Journalism and News:
 
 
 Team Progress Report
-
 Week 1:
 - There is no workshop.
 
