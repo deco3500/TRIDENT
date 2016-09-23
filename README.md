@@ -89,3 +89,68 @@ Journalism and News:
 
  1. Citizen
  2. Communication
+
+
+
+Team Progress Report:
+
+Week 1:
+- There is no workshop.
+
+Week 2:		
+- Individually produce a single slide that explains a challenge that we would like to address during this course this semester. 		 	 					
+- The challenge may be a news dilemma or the application of social or mobile technologies to the news domain. 
+
+Week 3:
+- Finalize project idea and upload it on Blackboard and upload another copy on Slack in the #ideas channel.
+
+Week 4:
+- Critique other students project idea and choose one project idea to work on through till the end of semester.
+- Form a group of 4 people with different skills.(mixed of both programmers and designers)
+- Create a Github account for the team.
+
+Week 5:
+- Start writing up the Project Proposal.
+- Brainstorming on project idea and how the team plans to move forward with the idea through the semester.
+
+Week 6:
+- Presented our project idea to the whole class as an oral pitch.
+- Receive feedbacks on our project idea.
+- Give critiques to other groups based on their project idea.
+- Did research on how our mobile app can be done differently compared to other existing app.
+
+Week 7:
+- Brainstorming session to find out the various functionality features that would be beneficial to our application.
+- Came up with two functionality features:
+- Augmented Reality
+- Push notification
+
+Week 8:
+- First team stand up meeting.
+- Presented our research to the tutor came out with conclusion that we would be incorporating augmented reality and push notification into our application. 
+- Get Augmented Reality concept done.
+
+Week 9:
+- Figure out the type of interaction method we would are using.
+- Personas reason being we are able to come out with various scenarios in which people would actually use our application this would help us to come out with various features that would benefits the purpose of the application.
+- The team decided to come up with two different personas. The reason is because we have to two different type of audience. (supplier and customer).
+- The second method we would use will be user testing during the test we would would like to see if the users are able to understand the application and if the application very user friendly and we would provide various features the to the user to see which is most suitable by them. 
+- Photos will be taken during this testing session to show tutors for evidence. 
+
+Week 10:
+- Second team stand up meeting.
+- Get Augmented Reality fully functioning and get Push Notification concept done.
+
+Week 11:
+- Get both functionality to work. 
+- We will perform user testing session.
+- Have a few people test out our prototype.
+- Received feedbacks.
+
+Week 12:
+- Third team stand up meeting.
+- Evaluating our mobile app prototype.
+- Finalizing the mobile app before final delivery. 
+
+Week 13:
+-Final prototype presentation.
