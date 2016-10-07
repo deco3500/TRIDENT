@@ -132,12 +132,13 @@ Week 8:
 Week 9:
 - Figure out the type of interaction method we would are using.
 - Personas reason being we are able to come out with various scenarios in which people would actually use our application this would help us to come out with various features that would benefits the purpose of the application.
-- The team decided to come up with two different personas. The reason is because we have to two different type of audience. (supplier and customer).
+- The team decided to come up with three different personas. The reason is because we have to two different type of audience. (supplier and customer).
 - The second method we would use will be user testing during the test we would would like to see if the users are able to understand the application and if the application very user friendly and we would provide various features the to the user to see which is most suitable by them. 
 - Photos will be taken during this testing session to show tutors for evidence. 
 
 Week 10:
 - Second team stand up meeting.
+- Personas complete
 - Get Augmented Reality fully functioning and get Push Notification concept done.
 
 Week 11:
