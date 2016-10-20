@@ -150,7 +150,11 @@ Week 11:
 Week 12:
 - Third team stand up meeting.
 - Evaluating our mobile app prototype.
-- Finalizing the mobile app before final delivery. 
+- Finalizing the mobile app before final delivery.
+- Finalizing the project documentation.
+- Finishing shooting and editing kickstarter video.
 
 Week 13:
--Final prototype presentation.
+- Final prototype presentation.
+- Project documentation completed.
+- Kickstarter video is completed.
