@@ -7,7 +7,6 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
     <meta name="description" content="">
     <meta name="author" content="">
-    <link rel="icon" href="../../favicon.ico">
 
     <title>Narrow Jumbotron Template for Bootstrap</title>
 
@@ -16,6 +15,8 @@
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <link href="../html/assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+      
+    <link rel="stylesheet" href="CSS/StyleSheet.css">
 
     <!-- Custom styles for this template -->
     <link href="../html/CSS/jumbotron-narrow.css" rel="stylesheet">
@@ -39,44 +40,32 @@
           <ul class="nav nav-pills pull-right">
             <li role="presentation" class="active"><a href="#">Home</a></li>
             <li role="presentation"><a href="#">About</a></li>
-            <li role="presentation"><a href="#">Contact</a></li>
+            <li role="presentation"><a href="Sign_In.html">Sign Out</a></li>
           </ul>
         </nav>
-        <h3 class="text-muted">Project name</h3>
+        <img src="Website_Pictures/AIM%20LOGO.png" height="20%" width="20%">
       </div>
 
       <div class="jumbotron">
-        <h1>Jumbotron heading</h1>
-        <p class="lead">Cras justo odio, dapibus ac facilisis in, egestas eget quam. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-        <p><a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a></p>
+        <img class="logo" src="Website_Pictures/Shop.jpg" height="20%" width="70%">
+        <h1>UQ Butcher</h1>
+          <form id="description" method="post">
+            <textarea id="textArea" rows="4" cols="80">What's Your Promotion Today...</textarea>  
+            <input class="btn btn-lg btn-success" type="submit" onclick="return total()" value="Post">
+            </form>
       </div>
 
       <div class="row marketing">
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+        <div id="promo" style="height: 50%; width:30%;">
+        </div> 
+        <div id="qrcode" style="height: 50p%; width:50%;">
+        <img id="loadingImage" src="../html/Website_Pictures/qrcode.jpg" style="visibility:hidden">
         </div>
 
-        <div class="col-lg-6">
-          <h4>Subheading</h4>
-          <p>Donec id elit non mi porta gravida at eget metus. Maecenas faucibus mollis interdum.</p>
-
-          <h4>Subheading</h4>
-          <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Cras mattis consectetur purus sit amet fermentum.</p>
-
-          <h4>Subheading</h4>
-          <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
-        </div>
       </div>
 
       <footer class="footer">
-        <p>&copy; 2016 Company, Inc.</p>
+          <p>DECO3500 Social Mobile Computing</p>
       </footer>
 
     </div> <!-- /container -->
@@ -84,5 +73,21 @@
 
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="../html/assets/js/ie10-viewport-bug-workaround.js"></script>
+    <script>
+        function total(){
+            var a = document.forms["description"]["textArea"].value;
+
+            var display=document.getElementById("promo");
+            var emptySpace=document.getElementById("empty");
+            display.innerHTML=document.getElementById("textArea").value;
+            var elem = document.createElement("img");
+            elem.src = 'Website_Pictures/qrcode.jpg';
+            elem.setAttribute("height", "300%");
+            elem.setAttribute("width", "30%");
+            document.getElementById("promo");
+            document.getElementById('loadingImage').style.visibility='visible';
+            return false;
+        }
+    </script>
   </body>
 </html>

@@ -12,3 +12,24 @@ a.button {
     text-decoration: none;
     color: initial;
 }
+
+div .row marketing{
+    width: 100%;
+}
+div #qrcode{
+    float: right;
+   
+}
+
+div #promo{
+    float: left;
+}
+
+.footer > p{
+    text-align: center;
+}
+
+#loadingImage{
+    width: 40%;
+    height:30%
+}
