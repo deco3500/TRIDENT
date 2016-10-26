@@ -37,3 +37,19 @@ div #promo{
 h3{
     text-align: center;
 }
+
+.imgQR{
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  margin: 1em;
+}
+
+.time{
+    float: right;
+    font-size: 10px;
+}
+
+.paragraph{
+    display: inline-block;
+}

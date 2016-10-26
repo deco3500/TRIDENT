@@ -8,7 +8,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Profile</title>
+    <title>History</title>
 
     <!-- Bootstrap core CSS -->
     <link href="../html/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -35,39 +35,60 @@
   <body>
 
     <div class="container">
-      <div class="header clearfix">
+        <div class="header clearfix">
         <nav>
           <ul class="nav nav-pills pull-right">
-            <li role="presentation" class="active"><a href="ProfilePage.html">Home</a></li>
-            <li role="presentation"><a href="history.html">History</a></li>
+            <li role="presentation" ><a href="ProfilePage.html">Home</a></li>
+            <li role="presentation" class="active"><a href="history.html">History</a></li>
             <li role="presentation"><a href="Sign_In.html">Sign Out</a></li>
           </ul>
         </nav>
         <img src="Website_Pictures/AIM%20LOGO.png" height="20%" width="20%">
       </div>
-
-      <div class="jumbotron">
-        <img class="logo" src="Website_Pictures/Shop.jpg" height="20%" width="70%">
-        <h1>UQ Butcher</h1>
-          <form id="description" method="post">
-            <textarea id="textArea" rows="4" cols="80">What's Your Promotion Today...</textarea>  
-            <input class="btn btn-lg btn-success" type="submit" onclick="return total()" value="Post">
-            </form>
-      </div>
-
-      <div class="row marketing">
-        <div id="promo" style="height: 50%; width:30%;">
-        </div> 
-        <div id="qrcode" style="height: 50p%; width:50%;">
-        <img id="loadingImage" src="../html/Website_Pictures/qrcode.jpg" style="visibility:hidden">
+        <div>
+            <div class="imgQR">
+                <img src="Website_Pictures/qrcode.jpg" height="130%" width="80%">
+            </div>
+            <div class="paragraph">
+                <p>BEEF STEAK MINCE $6.99per kilo</p>
+                <p>WHILE STOCKS LAST</p>
+                <p><strong>Valid from</strong> 3.30pm - 5.30pm!!!!</p>
+                <div class="time">
+                    <p>Posted: Wednesday 19/09/2016 2:00pm</p>
+                </div>
+            </div>
+            <hr>
+            <br>
+            <div class="imgQR">
+                <img src="Website_Pictures/qrcode.jpg" height="130%" width="80%">
+            </div>
+            <div class="paragraph">
+                <p>CHICKEN MINCE $3.99per kilo</p>
+                <p>WHILE STOCKS LAST</p>
+                <p><strong>Valid from</strong> 4.30pm - 3.30pm!!!!</p>
+                <div class="time">
+                    <p>Posted: Thursday 21/09/2016 12:00pm</p>
+                </div>
+                
+            </div>
+            <hr>
+            <br>
+            <div class="imgQR">
+                <img src="Website_Pictures/qrcode.jpg" height="130%" width="80%">
+            </div>
+            <div class="paragraph">
+                <p>Chicken Nuggets $10.99per kilo</p>
+                <p>WHILE STOCKS LAST</p>
+                <p><strong>Valid from</strong> 4.30pm - 3.30pm!!!!</p>
+                <div class="time">
+                    <p>Posted: Friday 22/09/2016 1:00pm</p>
+                </div>
+            </div>
         </div>
-
-      </div>
-
+        <br><br>
       <footer class="footer">
           <p>DECO3500 Social Mobile Computing</p>
       </footer>
-
     </div> <!-- /container -->
 
 
