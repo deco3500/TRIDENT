@@ -146,15 +146,18 @@ Week 11:
 - We will perform user testing session.
 - Have a few people test out our prototype.
 - Received feedbacks.
+- Change of concept from Augmented Reality to a Website for business owners.
 
 Week 12:
 - Third team stand up meeting.
 - Evaluating our mobile app prototype.
 - Finalizing the mobile app before final delivery.
-- Finalizing the project documentation.
-- Finishing shooting and editing kickstarter video.
+- Finalizing and compiling the project documentation.
+- Finishing the Promotional Material Website.
 
 Week 13:
+- Website for business owners completed.
+-Push notification for users/customers completed.
+-Promotional Material Website completed.
 - Final prototype presentation.
 - Project documentation completed.
-- Kickstarter video is completed.
