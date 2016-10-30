@@ -162,3 +162,16 @@ Week 13:
 -Promotional Material Website completed.
 - Final prototype presentation.
 - Project documentation completed.
+
+Link to Working Prototype:
+https://github.com/deco3500/TRIDENT/tree/master/Website/Website(Business)/html
+https://github.com/deco3500/TRIDENT/tree/master/App_Prototype/ProjectAIM_final
+
+Link to Promotional Material Website:
+https://github.com/deco3500/TRIDENT/blob/master/Website/ProductWebsite/index.html
+
+Link to Project Documentation:
+https://github.com/deco3500/TRIDENT/blob/master/Project%20Documentation.pdf
+
+Link to Important Folder Guide:
+https://github.com/deco3500/TRIDENT/blob/master/Important%20Folder%20Team%20Trident.pdf
