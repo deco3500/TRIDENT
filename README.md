@@ -24,10 +24,11 @@ The team is called ‘Trident’ and consists of four individuals:
 
 Roles and responsibility:
 
- - Tengku Abu Bakar  - Team Leader and Programmer . Managing the project. Organizing meetings and delegating task to each                                                       member. Setting target for each weak to ensure that every week team has                                                     something to achieve and each member are contributing to the target of                                                      the week. Handles the front end part of the project.
- - Dineshkran Rajasingam  - Programmer. Ensuring everything is right and everything is on schedule. Handles the content.                                            Handles the content part of the project.
- - Sebastian Feagan -  Programmer. Ensuring that the team agrees on a single decision. Handles the back end part of the                                         project.
- - Abdul Rahman Al Mahruqi - Designer. Ensuring that every possibilities and flaw has been taken into consideration. Handles                                       the designing part of the project.
+ - Tengku Abu Bakar  - Team Leader and Programmer . Managing the project. Organizing meetings and delegating task to each member. Setting target for each weak to ensure that every week team has something to achieve and each member are contributing to the target of the week. Handles the front end part of the project.
+ - Dineshkran Rajasingam  - Programmer. Ensuring everything is right and everything is on schedule. Creating the content for the stand-up meeting and the final product.
+ - Sebastian Feagan -  Programmer. Ensuring that the team agrees on a single decision. Handles the back end part of the project and the final product. 
+ - Abdul Rahman Al Mahruqi - Designer. Ensuring that every possibilities and flaw has been taken into consideration. Handles the designing part of the project.
+
  
 
 Team Commitments:
