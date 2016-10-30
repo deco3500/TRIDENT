@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvLat"
+        android:layout_weight="0.06"
+        android:textSize="18sp"
+        android:layout_toLeftOf="@+id/tvLocLat"
+        android:layout_toStartOf="@+id/tvLocLat" />
+
+    <Button
+        android:text="View Nearby Offers"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnCodes"
+        android:layout_weight="0.06"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/btnGPS"
+        android:layout_alignStart="@+id/btnGPS" />
+
+    <Button
+        android:text="Enable "
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnGPS"
+        android:layout_above="@+id/btnCodes"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvLong"
+        android:layout_below="@+id/tvLat"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvLat"
+        android:layout_alignRight="@+id/tvLocLat"
+        android:layout_alignEnd="@+id/tvLocLat"
+        android:id="@+id/tvLocLong"
+        android:textSize="18sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="104dp"
+        android:id="@+id/tvtitle2"
+        android:layout_below="@+id/tvLocLong"
+        android:layout_toRightOf="@+id/tvLong"
+        android:layout_toEndOf="@+id/tvLong"
+        android:textSize="24sp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvLocLat"
+        android:textSize="18sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="11dp"
+        android:layout_marginEnd="11dp" />
+
+    <TextView
+        android:text="TextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tvdesc2"
+        android:layout_below="@+id/tvtitle2"
+        android:layout_alignLeft="@+id/tvtitle2"
+        android:layout_alignStart="@+id/tvtitle2" />
+
+</RelativeLayout>
