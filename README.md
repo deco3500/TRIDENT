@@ -163,8 +163,10 @@ Week 13:
 - Final prototype presentation.
 - Project documentation completed.
 
-Link to Working Prototype:
+Link to Working Prototype (Business Website):
 https://github.com/deco3500/TRIDENT/tree/master/Website/Website(Business)/html
+
+Link to Working Prototype (Push Notification):
 https://github.com/deco3500/TRIDENT/tree/master/App_Prototype/ProjectAIM_final
 
 Link to Promotional Material Website:
